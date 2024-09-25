@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/lucassssmartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassssmartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="[(https://lanyard.cnrad.dev/api/705665813994012695)](https://discord.com/users/705665813994012695)"
+![Example](https://discord-profile-starcea.paring.moe/discord/1288572264471728190?)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
