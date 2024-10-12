@@ -1,14 +1,11 @@
 # 🌟 &nbsp; Olá, eu sou o Lucas.
 ☕ Desenvolvedor
 
-A minha paixão pela programação cresce a cada dia.
+A cada dia, e um novo desafio.
 
 # Linguagens
 
-![Javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![Kotlin](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&color=gray)
 
 # Discord
 
