@@ -9,4 +9,4 @@ A cada dia, e um novo desafio.
 
 # Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1288572264471728190)](https://discord.com/users/1288572264471728190)
+[![Discord Presence](https://ibb.co/PC1VhcN)](https://discord.com/users/1288572264471728190)
