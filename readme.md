@@ -7,5 +7,4 @@ A cada dia, e um novo desafio.
 
 ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&color=gray)
 
-# Discord
 
