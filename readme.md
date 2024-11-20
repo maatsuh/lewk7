@@ -1,4 +1,4 @@
-# 🌟 &nbsp; Olá, eu sou o Lucas.
+# 🌟 &nbsp; Olá, eu sou o Lewk.
 ☕ Desenvolvedor
 
 A cada dia, e um novo desafio.
@@ -9,4 +9,3 @@ A cada dia, e um novo desafio.
 
 # Discord
 
-[![Discord Presence](https://ibb.co/PC1VhcN)](https://discord.com/users/1288572264471728190)
