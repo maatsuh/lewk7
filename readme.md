@@ -1,7 +1,7 @@
 # 🌟 &nbsp; Olá, eu sou o MaT.
 ☕ Desenvolvedor
 
-A cada dia, e um novo desafio.
+A cada dia, é um novo desafio.
 
 # Linguagens
 
